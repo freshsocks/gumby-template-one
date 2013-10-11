@@ -1,0 +1,24 @@
+{
+  "name": "armlengths",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stevefloat/armlengths",
+  "authors": [
+    "stevefloat <steve@floattothetop.com>"
+  ],
+  "description": "Data visualization with D3.js, using classroom data",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.3.6",
+    "gumby": "~2.5.11",
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3",
+    "modernizr": "~2.6.2"
+  }
+}

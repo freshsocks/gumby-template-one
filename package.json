@@ -1,0 +1,25 @@
+{
+  "name": "armlengths",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A data visualization of arm lengths from Life Sciences class at UArts; testing out D3.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "uarts"
+  ],
+  "author": "Steve Mason",
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.3.5",
+    "jade": "*",
+    "stylus": "*",
+    "socket.io": "~0.9.16",
+    "underscore": "~1.5.2",
+    "twitter": "~0.2.3"
+  }
+}
